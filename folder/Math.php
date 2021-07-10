@@ -5,6 +5,7 @@ class Math{
     public function square($n){
         return $n * $n;
     }
-}
+    protected $novoPolje='nesto trece';
+  
 
 ?>
