@@ -6,7 +6,7 @@ class Math{
         return $n * $n;
     }
 
-    protected $poslednjaizmena="nemam pojma";
+    protected $poslednjaizmena="ok jasno mi je";
 
   
 ?>
